@@ -219,6 +219,7 @@ img {
   position: absolute;
 }
 #navlist li {
+font-size:1.7rem;
 display: inline;
 list-style-type: none;
 padding-right: 20px;
